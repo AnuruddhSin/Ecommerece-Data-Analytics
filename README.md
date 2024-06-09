@@ -1,6 +1,6 @@
 ## E-commerce Data Analytics
 
-Welcome to the E-commerce Data Analytics project! This repository contains code and data for analyzing e-commerce transactions and creating insightful dashboards. The goal of this project is to provide a comprehensive overview of e-commerce data, helping businesses and analysts derive actionable insights.
+Welcome to the E-commerce Data Analytics project! This repository contains code and data for analyzing e-commerce transactions and creating insightful dashboards using Power BI. The goal of this project is to provide a comprehensive overview of e-commerce data, helping businesses and analysts derive actionable insights.
 
 ### Project Structure
 
@@ -13,6 +13,11 @@ The repository includes the following files and directories:
 - **SQLQuery1.sql**: SQL query file for data extraction or manipulation.
 - **us_state_long_lat_codes.csv**: CSV file containing longitude and latitude codes for US states.
 - **.idea/**: Directory containing project configuration files for IntelliJ IDEA.
+- **SS Ecommerece Dash/**: Directory containing screenshots of various Power BI dashboards:
+  - **Main_dash.png**
+  - **coperate_dash.png**
+  - **home_office.png**
+  - **sales_by_state_focus.png**
 
 ### Getting Started
 
@@ -53,9 +58,11 @@ To get started with this project, follow the instructions below:
 
 - **us_state_long_lat_codes.csv**: This CSV file contains longitude and latitude codes for US states, which can be used for geospatial analysis and mapping. This file is particularly useful for creating maps and visualizations that show sales distribution across different geographic regions. By combining this data with the e-commerce transaction data, you can create insightful visualizations that highlight regional sales patterns and identify potential market opportunities.
 
-### Configuration Files
-
-- **.idea/**: This directory contains configuration files for IntelliJ IDEA, which include project settings, module configurations, and inspection profiles. These files help maintain consistency in the development environment and ensure that all team members are using the same project settings. They include information about the project structure, dependencies, and code style preferences, making it easier to collaborate and maintain the project over time.
+- **SS Ecommerece Dash/**: This directory contains screenshots of various Power BI dashboards. These images showcase the different types of dashboards available in this project:
+  - **Main_dash.png**: Main dashboard overview.
+  - **coperate_dash.png**: Corporate performance dashboard.
+  - **home_office.png**: Home office sales dashboard.
+  - **sales_by_state_focus.png**: Sales distribution by state dashboard.
 
 ### Detailed Workflow
 
@@ -73,6 +80,24 @@ To get started with this project, follow the instructions below:
 
 5. **Visualization and Reporting**:
    Visualizations play a crucial role in communicating the results of the analysis. The Power BI dashboard included in this project provides interactive visualizations that make it easy to explore the data and gain insights. Key metrics and trends are displayed in a visually appealing manner, allowing stakeholders to quickly understand the performance of the e-commerce business.
+
+   The provided screenshots of the Power BI dashboards can be found in the `SS Ecommerece Dash` directory:
+
+   - **Main Dashboard Overview**:
+     
+     ![Main Dashboard](SS%20Ecommerece%20Dash/Main_dash.png)
+
+   - **Corporate Performance Dashboard**:
+     
+     ![Corporate Performance Dashboard](SS%20Ecommerece%20Dash/coperate_dash.png)
+
+   - **Home Office Sales Dashboard**:
+     
+     ![Home Office Sales Dashboard](SS%20Ecommerece%20Dash/home_office.png)
+
+   - **Sales Distribution by State Dashboard**:
+     
+     ![Sales by State Dashboard](SS%20Ecommerece%20Dash/sales_by_state_focus.png)
 
 6. **Geospatial Analysis**:
    Using the `us_state_long_lat_codes.csv` file, you can create geospatial visualizations that show sales distribution across different geographic regions. This can help identify regions with high sales potential and inform marketing and sales strategies.
@@ -98,3 +123,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or inquiries, please contact the project maintainer at [anuruddh7234@gmail.com](mailto:anuruddh7234@gmail.com). Your feedback and suggestions are greatly appreciated, and we are always looking to improve and expand the project based on user input.
 
 ---
+
+Thank you for using the E-commerce Data Analytics project! We hope this project helps you gain valuable insights from your e-commerce data and drives your business towards success. Happy analyzing!
